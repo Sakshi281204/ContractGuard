@@ -1,0 +1,3 @@
+order_id,customer_id,order_ts,status,quantity,unit_price,currency,coupon_code,channel
+ORD-70000001,CUST-000001,2026-01-02T00:00:00Z,placed,2,499.50,INR,,web
+ORD-70000002,CUST-000001,2026-01-03T00:00:00Z,placed,2,499.50,INR,,web

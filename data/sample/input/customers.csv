@@ -1,0 +1,37 @@
+customer_id,full_name,email,country,signup_date,tier,phone
+CUST-000012,Customer 12,customer12@example.com,US,2025-08-14,gold,
+CUST-000004,Customer 4,customer4@example.com,US,2024-08-11,gold,
+CUST-000027,Customer 27,customer27@example.com,AE,2025-01-25,silver,+919272528809
+CUST-000003,Customer 3,customer3@example.com,DE,2025-08-27,standard,
+CUST-000001,Customer 1,customer1@example.com,IN,2025-10-16,standard,
+CUST-000015,Customer 15,customer15@example.com,GB,2024-06-15,silver,+917899825838
+CUST-000029,Customer 29,customer29@example.com,GB,2025-10-18,standard,+918260573448
+CUST-000002,Customer 2,customer2@example.com,US,2024-08-16,gold,
+CUST-000013,Customer 13,customer13@example.com,US,2025-11-08,silver,
+CUST-000026,Customer 26,customer26@example.com,DE,2025-11-27,gold,+917272849424
+CUST-000008,Customer 8,customer8@example.com,GB,2024-08-08,standard,+917398340369
+CUST-000023,Customer 23,customer23@example.com,DE,2025-08-21,gold,+918715412119
+CUST-000019,Customer 19,customer19@example.com,US,2024-02-27,standard,+918354860540
+CUST-000011,Customer 11,customer11@example.com,AE,2024-03-21,silver,+919699987374
+CUST-000021,Customer 21,customer21@example.com,DE,2024-08-05,silver,+919761027762
+CUST-000010,Customer 10,customer10@example.com,DE,2024-02-14,gold,+917536124280
+CUST-000024,Customer 24,customer24@example.com,US,2024-08-12,gold,
+CUST-000007,Customer 7,customer7@example.com,DE,2024-06-12,silver,
+CUST-000014,Customer 14,customer14@example.com,DE,2024-04-13,silver,+918947382419
+CUST-000020,Customer 20,customer20@example.com,IN,2024-10-01,standard,+919436019774
+CUST-000017,Customer 17,customer17@example.com,US,2025-06-30,standard,+918985392498
+CUST-000009,Customer 9,customer9@example.com,GB,2024-04-09,silver,+919592983555
+CUST-900004,Customer 900004,customer900004@example.com,GB,2025-13-45,standard,
+CUST-000030,Customer 30,customer30@example.com,DE,2024-06-10,standard,
+CUST-000016,Customer 16,customer16@example.com,IN,2025-11-30,gold,
+CUST-000022,Customer 22,customer22@example.com,GB,2024-05-26,standard,+918059257080
+CUST-000028,Customer 28,customer28@example.com,IN,2025-07-20,gold,+917491995979
+CUST-900003,,customer900003@example.com,GB,2025-09-05,silver,
+CUST-900001,Customer 900001,not-an-email,IN,2025-06-03,gold,
+CUST-000018,Customer 18,customer18@example.com,AE,2024-10-03,standard,+919940395823
+CUST-000025,Customer 25,customer25@example.com,IN,2024-02-18,standard,
+CUST-000005,Customer 5,customer5@example.com,US,2025-07-28,gold,+919791232393
+CUST-900002,Customer 900002,customer900002@example.com,FR,2024-06-05,standard,
+CUST-900005,OnlyTwoFields
+CUST-000006,Customer 6,customer6@example.com,DE,2024-08-13,gold,
+CUST-000019,Customer 19,customer19@example.com,US,2024-02-27,standard,+918354860540

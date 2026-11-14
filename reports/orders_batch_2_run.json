@@ -1,0 +1,20 @@
+{
+  "run_id": "run_20261114T093238Z_b0126d",
+  "dataset": "orders",
+  "source_file": "orders_batch_2.csv",
+  "status": "success",
+  "contract_version": 1,
+  "input_rows": 23400,
+  "inserted_rows": 10000,
+  "updated_rows": 5000,
+  "late_rows": 3000,
+  "unchanged_rows": 5000,
+  "rejected_rows": 400,
+  "not_processed_rows": 0,
+  "failure_reason": null,
+  "issues": [],
+  "reject_reasons": {
+    "BAD_TYPE": 200,
+    "INVALID_REFERENCE": 200
+  }
+}

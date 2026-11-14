@@ -1,0 +1,14 @@
+contract_name: orders
+version: 2
+description: Proposed orders contract. Used to demonstrate breaking vs non-breaking changes.
+primary_key: [order_id]
+columns:
+  - {name: order_id, type: string, nullable: false, pattern: '^ORD-\d{8}$'}
+  - {name: customer_id, type: string, nullable: false, references: customers.customer_id}
+  - {name: order_ts, type: timestamp, nullable: false}
+  - {name: status, type: string, nullable: false, allowed_values: [placed, shipped, delivered, cancelled, returned]}
+  - {name: quantity, type: integer, nullable: false, min: 1, max: 5000}
+  - {name: price_inr, type: float, nullable: false, min: 0.01}
+  - {name: currency, type: string, nullable: false, allowed_values: [INR]}
+  - {name: coupon_code, type: string, nullable: true}
+  - {name: channel, type: string, nullable: true}

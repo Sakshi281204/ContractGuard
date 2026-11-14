@@ -1,0 +1,17 @@
+{
+  "run_id": "run_20261114T093924Z_d538e2",
+  "dataset": "customers",
+  "source_file": "customers.csv",
+  "status": "skipped_already_loaded",
+  "contract_version": 1,
+  "input_rows": 10600,
+  "inserted_rows": 0,
+  "updated_rows": 0,
+  "late_rows": 0,
+  "unchanged_rows": 0,
+  "rejected_rows": 0,
+  "not_processed_rows": 10600,
+  "failure_reason": "same file content was already loaded by run_20261114T093117Z_871a54",
+  "issues": [],
+  "reject_reasons": {}
+}

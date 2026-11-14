@@ -1,0 +1,12 @@
+contract_name: customers
+version: 1
+description: Customer master data supplied by the CRM producer.
+primary_key: [customer_id]
+columns:
+  - {name: customer_id, type: string, nullable: false, pattern: '^CUST-\d{6}$'}
+  - {name: full_name, type: string, nullable: false}
+  - {name: email, type: string, nullable: false, pattern: '^[^@\s]+@[^@\s]+\.[^@\s]+$'}
+  - {name: country, type: string, nullable: false, allowed_values: [IN, US, GB, DE, AE]}
+  - {name: signup_date, type: date, nullable: false}
+  - {name: tier, type: string, nullable: false, allowed_values: [standard, silver, gold]}
+  - {name: phone, type: string, nullable: true}

@@ -1,0 +1,17 @@
+{
+  "run_id": "run_20261114T093338Z_17d164",
+  "dataset": "orders",
+  "source_file": "orders_batch_1.csv",
+  "status": "skipped_already_loaded",
+  "contract_version": 1,
+  "input_rows": 103000,
+  "inserted_rows": 0,
+  "updated_rows": 0,
+  "late_rows": 0,
+  "unchanged_rows": 0,
+  "rejected_rows": 0,
+  "not_processed_rows": 103000,
+  "failure_reason": "same file content was already loaded by run_20261114T093233Z_ddf55b",
+  "issues": [],
+  "reject_reasons": {}
+}

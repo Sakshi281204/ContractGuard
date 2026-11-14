@@ -1,0 +1,13 @@
+contract_name: orders
+version: 1
+description: Order events supplied by the order-management producer.
+primary_key: [order_id]
+columns:
+  - {name: order_id, type: string, nullable: false, pattern: '^ORD-\d{8}$'}
+  - {name: customer_id, type: string, nullable: false, references: customers.customer_id}
+  - {name: order_ts, type: timestamp, nullable: false}
+  - {name: status, type: string, nullable: false, allowed_values: [placed, shipped, delivered, cancelled]}
+  - {name: quantity, type: integer, nullable: false, min: 1, max: 1000}
+  - {name: unit_price, type: float, nullable: false, min: 0.01}
+  - {name: currency, type: string, nullable: false, allowed_values: [INR, USD]}
+  - {name: coupon_code, type: string, nullable: true}
