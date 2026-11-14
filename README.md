@@ -241,3 +241,58 @@ Developed as a Data Engineering portfolio project.
 **Language:** Python
 
 ---
+
+---
+
+## Application Screenshots
+
+The following screenshots demonstrate the ContractGuard application interface and its implemented functionality.
+
+<details>
+<summary><strong>View all 14 application screenshots</strong></summary>
+
+### Screenshot 1
+![ContractGuard 1](dashboard/ContractGuard%201.png)
+
+### Screenshot 2
+![ContractGuard 2](dashboard/ContractGuard%202.png)
+
+### Screenshot 3
+![ContractGuard 3](dashboard/ContractGuard%203.png)
+
+### Screenshot 4
+![ContractGuard 4](dashboard/ContractGuard%204.png)
+
+### Screenshot 5
+![ContractGuard 5](dashboard/ContractGuard%205.png)
+
+### Screenshot 6
+![ContractGuard 6](dashboard/ContractGuard%206.png)
+
+### Screenshot 7
+![ContractGuard 7](dashboard/ContractGuard%207.png)
+
+### Screenshot 8
+![ContractGuard 8](dashboard/ContractGuard%208.png)
+
+### Screenshot 9
+![ContractGuard 9](dashboard/ContractGuard%209.png)
+
+### Screenshot 10
+![ContractGuard 10](dashboard/ContractGuard%2010.png)
+
+### Screenshot 11
+![ContractGuard 11](dashboard/ContractGuard%2011.png)
+
+### Screenshot 12
+![ContractGuard 12](dashboard/ContractGuard%2012.png)
+
+### Screenshot 13
+![ContractGuard 13](dashboard/ContractGuard%2013.png)
+
+### Screenshot 14
+![ContractGuard 14](dashboard/ContractGuard%2014.png)
+
+</details>
+
+---
